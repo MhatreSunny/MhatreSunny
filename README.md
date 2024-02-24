@@ -6,7 +6,7 @@
 - 👀 I’m looking for help with **Advanced machine learning techniques**
 - 📫 How to reach me **ssmhatre789@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1q2oLpX5KdFuY4DIuwRt7XLX0p54gVpQV](https://drive.google.com/drive/folders/1q2oLpX5KdFuY4DIuwRt7XLX0p54gVpQV)
-- ⚡ Fun fact **Data analysts often spend about 80% of their time cleaning and preparing data before they can actually analyze it, highlighting the crucial role of data cleaning in the analytical process! 📊🧹**
+- ⚡ Fun fact **Data analysts often spend about 80% of their time cleaning and preparing data before they can analyze it, highlighting the crucial role of data cleaning in the analytical process! 📊🧹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
