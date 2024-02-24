@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **Data analysis, Visualization, and Machine learning. Excited to work with like-minded individuals to tackle real-world challenges and create meaningful impact!**
 - 👀 I’m looking for help with **Advanced machine learning techniques**
 - 📫 How to reach me **ssmhatre789@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1q2oLpX5KdFuY4DIuwRt7XLX0p54gVpQV](https://drive.google.com/drive/folders/1q2oLpX5KdFuY4DIuwRt7XLX0p54gVpQV)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1q2oLpX5KdFuY4DIuwRt7XLX0p54gVpQV](https://drive.google.com/file/d/1GQ6Pqv9XttgNdgW2ish80AJQXmUFktlv/view?usp=sharing)
 - ⚡ Fun fact **Data analysts often spend about 80% of their time cleaning and preparing data before they can analyze it, highlighting the crucial role of data cleaning in the analytical process! 📊🧹**
 
 <h3 align="left">Connect with me:</h3>
